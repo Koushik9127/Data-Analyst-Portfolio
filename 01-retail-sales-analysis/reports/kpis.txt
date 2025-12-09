@@ -1,0 +1,3 @@
+Total revenue: $10,619,986.68
+Total orders: 20728
+Average order value: $512.35
