@@ -1,0 +1,4 @@
+Total Customers: 7032
+Churned Customers: 1869
+Churn Rate: 26.58%
+Average Tenure: 32.42 months
